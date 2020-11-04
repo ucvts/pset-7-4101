@@ -1,0 +1,17 @@
+*.json
+*.dat
+*.jar
+src/GradeMe.java
+src/Parameter.java
+src/ProblemSet7Student.java
+src/Staff.java
+src/Student.java
+src/TestCase.java
+src/Value.java
+out/production/pset-7-4101/GradeMe.class
+out/production/pset-7-4101/Parameter.class
+out/production/pset-7-4101/ProblemSet7Student.class
+out/production/pset-7-4101/Staff.class
+out/production/pset-7-4101/Student.class
+out/production/pset-7-4101/TestCase.class
+out/production/pset-7-4101/Value.class
